@@ -1,0 +1,14 @@
+.warning {
+    background-color: #ffffcc;
+    border-left: 6px solid #ffeb3b;
+}
+
+hr{
+    height: 1px;
+    color: #FF9800;
+    background-color: #FF9800;
+}
+
+.navbar{
+    font-size: 20px !important;
+}
