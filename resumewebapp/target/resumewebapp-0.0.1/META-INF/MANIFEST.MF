@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: resumewebapp
+Implementation-Version: 0.0.1
+Built-By: Acer
+Implementation-Vendor-Id: com.company
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_181
+Main-Class: ${start-class}
+
